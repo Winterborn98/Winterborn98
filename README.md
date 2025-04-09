@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Winterborn98
+- 👋 Hi, I’m Adam Lester
 - 👀 I’m interested in Data Science/Analytics
 - 🌱 I’m currently learning Python, R, Java and SQL 
 - 💞️ I’m looking to collaborate on ...
